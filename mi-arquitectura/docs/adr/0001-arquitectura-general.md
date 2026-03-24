@@ -28,5 +28,5 @@ Se adopta una **arquitectura basada en eventos (Event-driven)** utilizando un se
 - Se requiere monitoreo proactivo de colas y servidores.
 
 **Referencias:**
-- Diagrama original en draw.io: [enlace al archivo .drawio en GitHub](https://github.com/tuusuario/mi-arquitectura/blob/main/diagrams/arquitectura-general.drawio)
+- Diagrama original en draw.io: [enlace al archivo .drawio en GitHub](https://github.com/jhonattan/system-design-adr/blob/main/diagrams/arquitectura-general.drawio)
 - System Design Interview – Alex Xu (Vol. 1 y 2)
